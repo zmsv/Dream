@@ -18,6 +18,7 @@ AstralDice是某人开发的一个可供trpg跑团骰点的骰系，并且提供
   - 后缀为 **.toml** 的放入/storage/emulated/0/AstralDice/AstralData_[此处应是你骰娘的QQ]/custom/文件夹中
   - 后缀为 **.lua** 的放入/storage/emulated/0/AstralDice/AstralData_[此处应是你骰娘的QQ]/custom/data/dream文件夹中，没有则新建
   - **.system load**指令重载或**手动重启**
+### 文件目录细分
 # 联系我们
 ## AstralDiceQQ群
 **731106397**
