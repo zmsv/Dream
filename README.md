@@ -15,8 +15,8 @@ AstralDice是某人开发的一个可供trpg跑团骰点的骰系，并且提供
 ## 开始搭建
   - 下载[释放](https://github.com/zmsv/Dream/releases/)中的最新版Dream.zip
   - 解压出来
-  - 后缀为 **.toml** 的放入/storage/emulated/0/AstralDice/AstralData_2792568590/custom/文件夹中
-  - 后缀为 **.lua** 的放入/storage/emulated/0/AstralDice/AstralData_2792568590/custom/data/dream文件夹中，没有则新建
+  - 后缀为 **.toml** 的放入/storage/emulated/0/AstralDice/AstralData_[此处应是你骰娘的QQ]/custom/文件夹中
+  - 后缀为 **.lua** 的放入/storage/emulated/0/AstralDice/AstralData_[此处应是你骰娘的QQ]/custom/data/dream文件夹中，没有则新建
   - **.system load**指令重载或**手动重启**
 # 联系我们
 ## AstralDiceQQ群
