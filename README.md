@@ -20,12 +20,12 @@ AstralDice是某人开发的一个可供trpg跑团骰点的骰系，并且提供
   - **.system load**指令重载或**手动重启**
 ### 文件目录细分
 你的**custom/data/dream**文件夹下应当有以下几个文件或文件夹
-  - config  配置文件文件夹
-  - data    Dream的数据文件夹
-  - lib     依赖填写**all**时默认导入的依赖
-  - plugin 插件文件夹
-  - dream.lua Dream框架主体
-  - sh.sh    dream.execute函数被调动时创造的文件
+  - `config`  配置文件文件夹
+  - `data`    Dream的数据文件夹
+  - `lib`     依赖填写**all**时默认导入的依赖
+  - `plugin` 插件文件夹
+  - `dream.lua` Dream框架主体
+  - `sh.sh`    dream.execute函数被调动时创造的文件
 # 联系我们
 ## AstralDiceQQ群
 **731106397**
