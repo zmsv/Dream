@@ -1,0 +1,29 @@
+[[lua]]
+version=3
+name="Dream"
+help=""
+platform="shiki"
+lua="""
+dream = {}
+dream.setting = {
+  path = ZhaoDiceSDK.storage.path.."/dream"
+}
+os.execute("mkdir " .. dream.setting.path)
+local f = io.open(dream.setting.path .. "/dream.lua", "r")
+if not f then
+  print("Dream：在"..dream.setting.path.."目录下未检测到 dream.lua 文件！请向开发者(2967713804)获取最新的框架文件！")
+  print("Dream：正在自动退出…")
+  return ""
+else
+  local a,b = loadfile(dream.setting.path .. "/dream.lua")
+  if not a then
+    print("加载dream.lua文件失败！错误信息：\\n"..b)
+    return ""
+  else
+    a,b = pcall(a)
+    if not a then
+      print("加载dream.lua文件失败！错误信息：\\n"..b)
+    end
+  end
+end
+"""
