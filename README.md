@@ -13,7 +13,7 @@ AstralDice是某人开发的一个可供trpg跑团骰点的骰系，并且提供
 # 搭建方法
 请确保你**已经安装AstralDice**，否则，请于**联系我们**目录下，找寻**AstralDiceQQ群**，加入其中，获取**群文件**中的AstralDice
 ## 开始搭建
-  - Github上的实在懒得更，请前往DreamQQ群，进入群文件界面，找到Dream最新版~~(有时候雨岚可能会推一推新版，但是，毕竟鸽子仙人)~~
+  - Github上的实在懒得更，请前往DreamQQ群，进入群文件界面，找到Dream最新版 ~~(有时候雨岚可能会推一推新版，但是，毕竟鸽子仙人)~~ 
   - 解压
   - 将`dream.lua`放入`custom/data/dream/`目录下，没有则新建
   - `plugin`和`lib`文件夹也放入上述目录
