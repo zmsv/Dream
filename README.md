@@ -31,6 +31,7 @@ AstralDice是某人开发的一个可供trpg跑团骰点的骰系，并且提供
 ## AstralDiceQQ群
 **731106397**
 **245525828**
+**660869936**
 ## AstralDice论坛
 [点击这里](https://astral.snoweven.com/)
 ## DreamQQ群
